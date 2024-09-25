@@ -13,8 +13,7 @@ h1 {
      width: 300px; 
      height: 300px; 
     outline: solid black; 
-      padding-top: 100px;   
-      /* padding-bottom: 100px; */
+      padding-top: 100px;         
      padding-left: 100px;  
      margin-left: 275px;
      margin-top: 50px;
@@ -26,9 +25,6 @@ h1 {
      width: 200px;
      height: 200px;
      outline: solid black;
-    /* padding-left: 100px;  */
-    /* padding-top: 100px; */
-    /* margin-left: 100px; */
     outline-width: 3px;
     align-content: center;
     
